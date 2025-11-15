@@ -1,9 +1,9 @@
 {
-  "name": "my-theme",
+  "name": "thememarket",
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://sujanivi92-ui.github.io/my-theme",
+  "homepage": "https://sujanivi92-ui.github.io/thememarket",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
