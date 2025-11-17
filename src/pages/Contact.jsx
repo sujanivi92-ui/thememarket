@@ -1,6 +1,3 @@
-
-
-
 import React, { useState } from "react";
 import { Search, ChevronDown, CheckCircle } from "lucide-react";
 import creative from "../assets/creative.jpg";
